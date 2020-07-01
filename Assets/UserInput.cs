@@ -31,7 +31,7 @@ public class UserInput : MonoBehaviour
         //Print a message when the key is released
         if (Input.GetKeyUp(KeyCode.F))
         {
-            Debug.Log("F is released");
+            Debug.Log("F Key is released");
         }
 
      
