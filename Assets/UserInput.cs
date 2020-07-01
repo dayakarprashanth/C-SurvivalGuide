@@ -34,12 +34,7 @@ public class UserInput : MonoBehaviour
             Debug.Log("F is released");
         }
 
-        //If D is pressed down
-        //Print a message when the key is released
-        if (Input.GetKeyUp(KeyCode.D))
-        {
-            Debug.Log("D is released");
-        }
+     
 
 
     }
